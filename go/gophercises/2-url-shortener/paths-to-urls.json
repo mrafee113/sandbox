@@ -1,0 +1,10 @@
+[
+    {
+        "path": "/one",
+        "url": "https://google.com"
+    },
+    {
+        "path": "/two",
+        "url": "https://leetcode.com"
+    }
+]
